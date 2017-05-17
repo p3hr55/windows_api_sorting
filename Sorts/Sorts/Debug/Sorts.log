@@ -1,0 +1,10 @@
+﻿  Source.c
+c:\users\brandon\desktop\alvino_brandon_assignment_5_csci360\sorts\sorts\source.c(108): warning C4020: 'm': too many actual parameters
+c:\users\brandon\desktop\alvino_brandon_assignment_5_csci360\sorts\sorts\source.c(87): warning C4101: 'left': unreferenced local variable
+c:\users\brandon\desktop\alvino_brandon_assignment_5_csci360\sorts\sorts\source.c(87): warning C4101: 'point_outfile': unreferenced local variable
+c:\users\brandon\desktop\alvino_brandon_assignment_5_csci360\sorts\sorts\source.c(86): warning C4101: 'out': unreferenced local variable
+c:\users\brandon\desktop\alvino_brandon_assignment_5_csci360\sorts\sorts\source.c(87): warning C4101: 'point_in': unreferenced local variable
+c:\users\brandon\desktop\alvino_brandon_assignment_5_csci360\sorts\sorts\source.c(86): warning C4101: 'out_map': unreferenced local variable
+c:\users\brandon\desktop\alvino_brandon_assignment_5_csci360\sorts\sorts\source.c(87): warning C4101: 'right': unreferenced local variable
+c:\users\brandon\desktop\alvino_brandon_assignment_5_csci360\sorts\sorts\source.c(87): warning C4101: 'point_out': unreferenced local variable
+  Sorts.vcxproj -> C:\Users\Brandon\Desktop\Alvino_Brandon_Assignment_5_CSCI360\Sorts\Debug\Sorts.exe
